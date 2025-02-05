@@ -41,6 +41,16 @@ max-width: 500px;
 text-decoration: none;
 }
 
+/* Dark mode styles */
+body.dark-mode {
+background-color: black;
+color: white;
+}
+
+body.dark-mode a {
+color: lightblue;
+}
+
 /* Colours */
 .nf-fa-discord {
 color: #5165f6;
