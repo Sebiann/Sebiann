@@ -1,10 +1,79 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f9;
-    color: #333;
-    padding: 20px;
+html {
+box-sizing: border-box;
+font-family: 'Faculty Glyphic', serif;
+font-style: normal;
+font-size: 24px;
 }
-h1 {
-    color: #007BFF;
+
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+margin: 0;
+padding: 0;
+font-weight: normal;
+}
+
+ol, ul {
+list-style: none;
+}
+
+img {
+max-width: 100%;
+height: auto;
+}
+
+/* Custom */
+.flex-container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 10px;
+}
+
+main {
+max-width: 500px;
+}
+
+.no-underline {
+text-decoration: none;
+}
+
+/* Colours */
+.nf-fa-discord {
+color: #5165f6;
+}
+
+.nf-md-language_javascript {
+color: #f8dc3d;
+}
+
+.nf-dev-python {
+color: #3778ae;
+}
+
+.nf-dev-git {
+color: #de4c36;
+}
+
+.nf-fa-githb {
+color: #000;
+}
+
+.nf-md-docker {
+color: #2496ed;
+}
+
+.nf-md-arch {
+color: #1793d1;
+}
+
+.nf-md-debian {
+color: #d70651;
+}
+
+.nf-md-ubuntu {
+color: #de4815;
 }
