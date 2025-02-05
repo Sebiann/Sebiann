@@ -1,89 +1,112 @@
 html {
-box-sizing: border-box;
-font-family: 'Faculty Glyphic', serif;
-font-style: normal;
-font-size: 24px;
+    box-sizing: border-box;
+    font-family: "Faculty Glyphic", serif;
+    font-style: normal;
+    font-size: 24px;
 }
 
-*, *:before, *:after {
-box-sizing: inherit;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
-body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-margin: 0;
-padding: 0;
-font-weight: normal;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
 }
 
-ol, ul {
-list-style: none;
+ol,
+ul {
+    list-style: none;
 }
 
 img {
-max-width: 100%;
-height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 /* Custom */
 .flex-container {
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
 
 main {
-max-width: 500px;
+    max-width: 500px;
 }
 
 .no-underline {
-text-decoration: none;
+    text-decoration: none;
 }
 
 /* Dark mode styles */
 body.dark-mode {
-background-color: black;
-color: white;
+    background-color: black;
+    color: white;
 }
 
 body.dark-mode a {
-color: lightblue;
+    color: lightblue;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 0.8em;
 }
 
 /* Colours */
 .nf-fa-discord {
-color: #5165f6;
+    color: #5165f6;
 }
 
 .nf-md-language_javascript {
-color: #f8dc3d;
+    color: #f8dc3d;
 }
 
 .nf-dev-python {
-color: #3778ae;
+    color: #3778ae;
 }
 
 .nf-dev-git {
-color: #de4c36;
+    color: #de4c36;
 }
 
 .nf-fa-githb {
-color: #000;
+    color: #000;
 }
 
 .nf-md-docker {
-color: #2496ed;
+    color: #2496ed;
 }
 
 .nf-md-arch {
-color: #1793d1;
+    color: #1793d1;
 }
 
 .nf-md-debian {
-color: #d70651;
+    color: #d70651;
 }
 
 .nf-md-ubuntu {
-color: #de4815;
+    color: #de4815;
 }
