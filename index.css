@@ -1,7 +1,7 @@
+/* Reset */
 html {
     box-sizing: border-box;
     font-family: "Faculty Glyphic", serif;
-    font-style: normal;
     font-size: 24px;
 }
 
@@ -49,18 +49,40 @@ main {
     max-width: 500px;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+a {
+    color: gray;
+}
+
+a:hover {
+    color: #7d00a3;
+}
+
+a:hover .nf {
+    color: #7d00a3;
+}
+
 .no-underline {
     text-decoration: none;
 }
 
-/* Dark mode styles */
-body.dark-mode {
-    background-color: black;
-    color: white;
-}
-
-body.dark-mode a {
-    color: lightblue;
+.center {
+    text-align: center;
 }
 
 footer {
@@ -74,7 +96,13 @@ footer {
     font-size: 0.8em;
 }
 
-/* Colours */
+/* Dark mode styles */
+body.dark-mode {
+    background-color: black;
+    color: lightgray;
+}
+
+/* Colors */
 .nf-fa-discord {
     color: #5165f6;
 }
