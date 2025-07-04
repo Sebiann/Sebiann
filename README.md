@@ -8,7 +8,7 @@
 - 😄 Pronouns: Any
 - ⚡ Fun fact: ...
 
-[![Sebiann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiann&layout=compact&bg_color=100deg,178822,FB0000&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Sebiann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiann&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sebiann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebiann&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
