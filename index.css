@@ -96,6 +96,14 @@ footer {
     font-size: 0.8em;
 }
 
+@media (max-width: 600px) {
+    footer {
+        position: static;
+        width: 100%;
+        bottom: auto;
+    }
+}
+
 /* Dark mode styles */
 body.dark-mode {
     background-color: black;
