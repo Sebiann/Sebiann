@@ -1,17 +1,18 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything and Rats
-- 📫 How to reach me: Discord
-- 😄 Pronouns: Any
-- ⚡ Fun fact: ...
+# 💫 About Me:
+- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about Anything and Rats<br>- 📫 How to reach me: Discord<br>- 😄 Pronouns: Any<br>- ⚡ Fun fact: ...
 
-[![Sebiann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiann&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sebiann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebiann&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sebiann&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sebiann&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiann&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sebiann&theme=catppuccin-mocha)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sebiann&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=4)
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=javascript%2Cjavascript%2CF7DF1E%3Bredbull%2Credbull%2CDB0A40%3B)](https://github-readme-tech-stack.vercel.app/)
+---
+[![](https://visitcount.itsvg.in/api?id=Sebiann&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
